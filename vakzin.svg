@@ -1,7 +1,7 @@
 <svg width="1450" height="1550" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>background</title>
-  <rect x="-1" y="-1" width="1452" height="1552" id="canvas_background" fill="none"/>
+  <rect x="-1" y="-1" viewBox="0 0 2000 2000" id="canvas_background" fill="none"/>
  </g>
 
  <g>

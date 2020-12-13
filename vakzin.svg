@@ -1,0 +1,1162 @@
+<svg width="1450" height="1550" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="1452" height="1552" id="canvas_background" fill="none"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(45, 730, 45)" id="svg_1">
+   <g id="svg_2">
+    <g transform="translate(320) scale(2.85714)" id="svg_3">
+     <g fill=" rgb(256, 256, 256)" id="svg_4">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_5"/>
+     </g>
+    </g>
+    <g transform="translate(360) scale(2.85714)" id="svg_6">
+     <g fill=" rgb(256, 256, 256)" id="svg_7">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_8"/>
+     </g>
+    </g>
+    <g transform="translate(440) scale(0.08)" id="svg_9">
+     <g fill=" rgb(256, 256, 256)" id="svg_10">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_11"/>
+     </g>
+    </g>
+    <g transform="translate(520) scale(2.85714)" id="svg_12">
+     <g fill=" rgb(256, 256, 256)" id="svg_13">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_14"/>
+     </g>
+    </g>
+    <g transform="translate(560) scale(0.4)" id="svg_15">
+     <g fill=" rgb(256, 256, 256)" id="svg_16">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_17"/>
+     </g>
+    </g>
+    <g transform="translate(600) scale(0.4)" id="svg_18">
+     <g fill=" rgb(256, 256, 256)" id="svg_19">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_20"/>
+     </g>
+    </g>
+    <g transform="translate(640) scale(2.85714)" id="svg_21">
+     <g fill=" rgb(256, 256, 256)" id="svg_22">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_23"/>
+     </g>
+    </g>
+    <g transform="translate(400, 40) scale(0.08)" id="svg_24">
+     <g fill=" rgb(256, 256, 256)" id="svg_25">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_26"/>
+     </g>
+    </g>
+    <g transform="translate(480, 40) scale(2.85714)" id="svg_27">
+     <g fill=" rgb(256, 256, 256)" id="svg_28">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_29"/>
+     </g>
+    </g>
+    <g transform="translate(440, 80) scale(2.85714)" id="svg_30">
+     <g fill=" rgb(256, 256, 256)" id="svg_31">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_32"/>
+     </g>
+    </g>
+    <g transform="translate(480, 80) scale(0.4)" id="svg_33">
+     <g fill=" rgb(256, 256, 256)" id="svg_34">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_35"/>
+     </g>
+    </g>
+    <g transform="translate(560, 80) scale(0.08)" id="svg_36">
+     <g fill=" rgb(256, 256, 256)" id="svg_37">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_38"/>
+     </g>
+    </g>
+    <g transform="translate(640, 80) scale(0.08)" id="svg_39">
+     <g fill=" rgb(256, 256, 256)" id="svg_40">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_41"/>
+     </g>
+    </g>
+    <g transform="translate(320, 120) scale(2.85714)" id="svg_42">
+     <g fill=" rgb(256, 256, 256)" id="svg_43">
+      <path d="m262.499,8.749l0,14l-13.97,0l-0.029,0l0,-3.431c0,-5.839 6.267,-10.569 13.999,-10.569z" id="svg_44"/>
+     </g>
+    </g>
+    <g transform="translate(360, 120) scale(0.4)" id="svg_45">
+     <g fill=" rgb(256, 256, 256)" id="svg_46">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_47"/>
+     </g>
+    </g>
+    <g transform="translate(400, 120) scale(2.85714)" id="svg_48">
+     <g fill=" rgb(256, 256, 256)" id="svg_49">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_50"/>
+     </g>
+    </g>
+    <g transform="translate(480, 120) scale(2.85714)" id="svg_51">
+     <g fill=" rgb(256, 256, 256)" id="svg_52">
+      <path d="m248.499,8.75l14,0c0,0 -4.381,9.151 -0.551,14c0,0 -13.449,0.24 -13.449,-14z" id="svg_53"/>
+     </g>
+    </g>
+    <g transform="translate(600, 120) scale(2.85714)" id="svg_54">
+     <g fill=" rgb(256, 256, 256)" id="svg_55">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_56"/>
+     </g>
+    </g>
+    <g transform="translate(320, 160) scale(0.4)" id="svg_57">
+     <g fill=" rgb(256, 256, 256)" id="svg_58">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_59"/>
+     </g>
+    </g>
+    <g transform="translate(440, 160) scale(0.08)" id="svg_60">
+     <g fill=" rgb(256, 256, 256)" id="svg_61">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_62"/>
+     </g>
+    </g>
+    <g transform="translate(560, 160) scale(2.85714)" id="svg_63">
+     <g fill=" rgb(256, 256, 256)" id="svg_64">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_65"/>
+     </g>
+    </g>
+    <g transform="translate(600, 160) scale(0.4)" id="svg_66">
+     <g fill=" rgb(256, 256, 256)" id="svg_67">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_68"/>
+     </g>
+    </g>
+    <g transform="translate(640, 160) scale(2.85714)" id="svg_69">
+     <g fill=" rgb(256, 256, 256)" id="svg_70">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_71"/>
+     </g>
+    </g>
+    <g transform="translate(320, 200) scale(0.4)" id="svg_72">
+     <g fill=" rgb(256, 256, 256)" id="svg_73">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_74"/>
+     </g>
+    </g>
+    <g transform="translate(360, 200) scale(2.85714)" id="svg_75">
+     <g fill=" rgb(256, 256, 256)" id="svg_76">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_77"/>
+     </g>
+    </g>
+    <g transform="translate(480, 200) scale(2.85714)" id="svg_78">
+     <g fill=" rgb(256, 256, 256)" id="svg_79">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_80"/>
+     </g>
+    </g>
+    <g transform="translate(640, 200) scale(0.4)" id="svg_81">
+     <g fill=" rgb(256, 256, 256)" id="svg_82">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_83"/>
+     </g>
+    </g>
+    <g transform="translate(320, 240) scale(0.4)" id="svg_84">
+     <g fill=" rgb(256, 256, 256)" id="svg_85">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_86"/>
+     </g>
+    </g>
+    <g transform="translate(400, 240) scale(0.08)" id="svg_87">
+     <g fill=" rgb(256, 256, 256)" id="svg_88">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_89"/>
+     </g>
+    </g>
+    <g transform="translate(480, 240) scale(0.4)" id="svg_90">
+     <g fill=" rgb(256, 256, 256)" id="svg_91">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_92"/>
+     </g>
+    </g>
+    <g transform="translate(560, 240) scale(0.08)" id="svg_93">
+     <g fill=" rgb(256, 256, 256)" id="svg_94">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_95"/>
+     </g>
+    </g>
+    <g transform="translate(640, 240) scale(2.85714)" id="svg_96">
+     <g fill=" rgb(256, 256, 256)" id="svg_97">
+      <path d="m248.499,8.75l14,0c0,0 -4.381,9.151 -0.551,14c0,0 -13.449,0.24 -13.449,-14z" id="svg_98"/>
+     </g>
+    </g>
+    <g transform="translate(320, 280) scale(0.4)" id="svg_99">
+     <g fill=" rgb(256, 256, 256)" id="svg_100">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_101"/>
+     </g>
+    </g>
+    <g transform="translate(480, 280) scale(0.4)" id="svg_102">
+     <g fill=" rgb(256, 256, 256)" id="svg_103">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_104"/>
+     </g>
+    </g>
+    <g transform="translate(520, 280) scale(2.85714)" id="svg_105">
+     <g fill=" rgb(256, 256, 256)" id="svg_106">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_107"/>
+     </g>
+    </g>
+    <g transform="translate(0, 320) scale(0.08)" id="svg_108">
+     <g fill=" rgb(256, 256, 256)" id="svg_109">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_110"/>
+     </g>
+    </g>
+    <g transform="translate(160, 320) scale(2.85714)" id="svg_111">
+     <g fill=" rgb(256, 256, 256)" id="svg_112">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_113"/>
+     </g>
+    </g>
+    <g transform="translate(240, 320) scale(2.85714)" id="svg_114">
+     <g fill=" rgb(256, 256, 256)" id="svg_115">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_116"/>
+     </g>
+    </g>
+    <g transform="translate(280, 320) scale(0.4)" id="svg_117">
+     <g fill=" rgb(256, 256, 256)" id="svg_118">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_119"/>
+     </g>
+    </g>
+    <g transform="translate(320, 320) scale(2.85714)" id="svg_120">
+     <g fill=" rgb(256, 256, 256)" id="svg_121">
+      <path d="m248.5,22.75l0,-14l13.971,0l0.029,0l0,3.43c0,5.84 -6.268,10.57 -14,10.57z" id="svg_122"/>
+     </g>
+    </g>
+    <g transform="translate(400, 320) scale(2.85714)" id="svg_123">
+     <g fill=" rgb(256, 256, 256)" id="svg_124">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_125"/>
+     </g>
+    </g>
+    <g transform="translate(440, 320) scale(0.4)" id="svg_126">
+     <g fill=" rgb(256, 256, 256)" id="svg_127">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_128"/>
+     </g>
+    </g>
+    <g transform="translate(480, 320) scale(0.4)" id="svg_129">
+     <g fill=" rgb(256, 256, 256)" id="svg_130">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_131"/>
+     </g>
+    </g>
+    <g transform="translate(520, 320) scale(0.4)" id="svg_132">
+     <g fill=" rgb(256, 256, 256)" id="svg_133">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_134"/>
+     </g>
+    </g>
+    <g transform="translate(600, 320) scale(2.85714)" id="svg_135">
+     <g fill=" rgb(256, 256, 256)" id="svg_136">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_137"/>
+     </g>
+    </g>
+    <g transform="translate(680, 320) scale(2.85714)" id="svg_138">
+     <g fill=" rgb(256, 256, 256)" id="svg_139">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_140"/>
+     </g>
+    </g>
+    <g transform="translate(720, 320) scale(0.4)" id="svg_141">
+     <g fill=" rgb(256, 256, 256)" id="svg_142">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_143"/>
+     </g>
+    </g>
+    <g transform="translate(760, 320) scale(0.4)" id="svg_144">
+     <g fill=" rgb(256, 256, 256)" id="svg_145">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_146"/>
+     </g>
+    </g>
+    <g transform="translate(800, 320) scale(0.4)" id="svg_147">
+     <g fill=" rgb(256, 256, 256)" id="svg_148">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_149"/>
+     </g>
+    </g>
+    <g transform="translate(840, 320) scale(2.85714)" id="svg_150">
+     <g fill=" rgb(256, 256, 256)" id="svg_151">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_152"/>
+     </g>
+    </g>
+    <g transform="translate(960, 320) scale(0.08)" id="svg_153">
+     <g fill=" rgb(256, 256, 256)" id="svg_154">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_155"/>
+     </g>
+    </g>
+    <g transform="translate(160, 360) scale(2.85714)" id="svg_156">
+     <g fill=" rgb(256, 256, 256)" id="svg_157">
+      <path d="m248.499,8.75l14,0c0,0 -4.381,9.151 -0.551,14c0,0 -13.449,0.24 -13.449,-14z" id="svg_158"/>
+     </g>
+    </g>
+    <g transform="translate(280, 360) scale(2.85714)" id="svg_159">
+     <g fill=" rgb(256, 256, 256)" id="svg_160">
+      <path d="m248.499,8.75l14,0c0,0 -4.381,9.151 -0.551,14c0,0 -13.449,0.24 -13.449,-14z" id="svg_161"/>
+     </g>
+    </g>
+    <g transform="translate(360, 360) scale(0.08)" id="svg_162">
+     <g fill=" rgb(256, 256, 256)" id="svg_163">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_164"/>
+     </g>
+    </g>
+    <g transform="translate(520, 360) scale(2.85714)" id="svg_165">
+     <g fill=" rgb(256, 256, 256)" id="svg_166">
+      <path d="m248.5,8.749l14,0l0,13.97l0,0.029l-3.431,0.001c-5.838,0 -10.569,-6.268 -10.569,-14z" id="svg_167"/>
+     </g>
+    </g>
+    <g transform="translate(560, 360) scale(0.4)" id="svg_168">
+     <g fill=" rgb(256, 256, 256)" id="svg_169">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_170"/>
+     </g>
+    </g>
+    <g transform="translate(600, 360) scale(0.4)" id="svg_171">
+     <g fill=" rgb(256, 256, 256)" id="svg_172">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_173"/>
+     </g>
+    </g>
+    <g transform="translate(640, 360) scale(2.85714)" id="svg_174">
+     <g fill=" rgb(256, 256, 256)" id="svg_175">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_176"/>
+     </g>
+    </g>
+    <g transform="translate(800, 360) scale(0.4)" id="svg_177">
+     <g fill=" rgb(256, 256, 256)" id="svg_178">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_179"/>
+     </g>
+    </g>
+    <g transform="translate(840, 360) scale(0.4)" id="svg_180">
+     <g fill=" rgb(256, 256, 256)" id="svg_181">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_182"/>
+     </g>
+    </g>
+    <g transform="translate(920, 360) scale(0.08)" id="svg_183">
+     <g fill=" rgb(256, 256, 256)" id="svg_184">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_185"/>
+     </g>
+    </g>
+    <g transform="translate(0, 400) scale(2.85714)" id="svg_186">
+     <g fill=" rgb(256, 256, 256)" id="svg_187">
+      <path d="m262.499,8.749l0,14l-13.97,0l-0.029,0l0,-3.431c0,-5.839 6.267,-10.569 13.999,-10.569z" id="svg_188"/>
+     </g>
+    </g>
+    <g transform="translate(40, 400) scale(2.85714)" id="svg_189">
+     <g fill=" rgb(256, 256, 256)" id="svg_190">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_191"/>
+     </g>
+    </g>
+    <g transform="translate(120, 400) scale(0.08)" id="svg_192">
+     <g fill=" rgb(256, 256, 256)" id="svg_193">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_194"/>
+     </g>
+    </g>
+    <g transform="translate(200, 400) scale(2.85714)" id="svg_195">
+     <g fill=" rgb(256, 256, 256)" id="svg_196">
+      <path d="m262.499,8.749l0,14l-13.97,0l-0.029,0l0,-3.431c0,-5.839 6.267,-10.569 13.999,-10.569z" id="svg_197"/>
+     </g>
+    </g>
+    <g transform="translate(240, 400) scale(2.85714)" id="svg_198">
+     <g fill=" rgb(256, 256, 256)" id="svg_199">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_200"/>
+     </g>
+    </g>
+    <g transform="translate(480, 400) scale(2.85714)" id="svg_201">
+     <g fill=" rgb(256, 256, 256)" id="svg_202">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_203"/>
+     </g>
+    </g>
+    <g transform="translate(600, 400) scale(2.85714)" id="svg_204">
+     <g fill=" rgb(256, 256, 256)" id="svg_205">
+      <path d="m248.5,8.749l14,0l0,13.97l0,0.029l-3.431,0.001c-5.838,0 -10.569,-6.268 -10.569,-14z" id="svg_206"/>
+     </g>
+    </g>
+    <g transform="translate(640, 400) scale(0.4)" id="svg_207">
+     <g fill=" rgb(256, 256, 256)" id="svg_208">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_209"/>
+     </g>
+    </g>
+    <g transform="translate(680, 400) scale(2.85714)" id="svg_210">
+     <g fill=" rgb(256, 256, 256)" id="svg_211">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_212"/>
+     </g>
+    </g>
+    <g transform="translate(800, 400) scale(2.85714)" id="svg_213">
+     <g fill=" rgb(256, 256, 256)" id="svg_214">
+      <path d="m248.5,8.749l14,0l0,13.97l0,0.029l-3.431,0.001c-5.838,0 -10.569,-6.268 -10.569,-14z" id="svg_215"/>
+     </g>
+    </g>
+    <g transform="translate(840, 400) scale(0.4)" id="svg_216">
+     <g fill=" rgb(256, 256, 256)" id="svg_217">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_218"/>
+     </g>
+    </g>
+    <g transform="translate(880, 400) scale(2.85714)" id="svg_219">
+     <g fill=" rgb(256, 256, 256)" id="svg_220">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_221"/>
+     </g>
+    </g>
+    <g transform="translate(0, 440) scale(2.85714)" id="svg_222">
+     <g fill=" rgb(256, 256, 256)" id="svg_223">
+      <path d="m248.5,8.749l14,0l0,13.97l0,0.029l-3.431,0.001c-5.838,0 -10.569,-6.268 -10.569,-14z" id="svg_224"/>
+     </g>
+    </g>
+    <g transform="translate(40, 440) scale(2.85714)" id="svg_225">
+     <g fill=" rgb(256, 256, 256)" id="svg_226">
+      <path d="m248.5,22.75l0,-14l13.971,0l0.029,0l0,3.43c0,5.84 -6.268,10.57 -14,10.57z" id="svg_227"/>
+     </g>
+    </g>
+    <g transform="translate(200, 440) scale(2.85714)" id="svg_228">
+     <g fill=" rgb(256, 256, 256)" id="svg_229">
+      <path d="m248.499,8.75l14,0c0,0 -4.381,9.151 -0.551,14c0,0 -13.449,0.24 -13.449,-14z" id="svg_230"/>
+     </g>
+    </g>
+    <g transform="translate(280, 440) scale(2.85714)" id="svg_231">
+     <g fill=" rgb(256, 256, 256)" id="svg_232">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_233"/>
+     </g>
+    </g>
+    <g transform="translate(320, 440) scale(2.85714)" id="svg_234">
+     <g fill=" rgb(256, 256, 256)" id="svg_235">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_236"/>
+     </g>
+    </g>
+    <g transform="translate(400, 440) scale(0.08)" id="svg_237">
+     <g fill=" rgb(256, 256, 256)" id="svg_238">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_239"/>
+     </g>
+    </g>
+    <g transform="translate(480, 440) scale(2.85714)" id="svg_240">
+     <g fill=" rgb(256, 256, 256)" id="svg_241">
+      <path d="m248.499,8.75l14,0c0,0 -4.381,9.151 -0.551,14c0,0 -13.449,0.24 -13.449,-14z" id="svg_242"/>
+     </g>
+    </g>
+    <g transform="translate(560, 440) scale(2.85714)" id="svg_243">
+     <g fill=" rgb(256, 256, 256)" id="svg_244">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_245"/>
+     </g>
+    </g>
+    <g transform="translate(760, 440) scale(0.08)" id="svg_246">
+     <g fill=" rgb(256, 256, 256)" id="svg_247">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_248"/>
+     </g>
+    </g>
+    <g transform="translate(880, 440) scale(0.4)" id="svg_249">
+     <g fill=" rgb(256, 256, 256)" id="svg_250">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_251"/>
+     </g>
+    </g>
+    <g transform="translate(920, 440) scale(2.85714)" id="svg_252">
+     <g fill=" rgb(256, 256, 256)" id="svg_253">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_254"/>
+     </g>
+    </g>
+    <g transform="translate(120, 480) scale(2.85714)" id="svg_255">
+     <g fill=" rgb(256, 256, 256)" id="svg_256">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_257"/>
+     </g>
+    </g>
+    <g transform="translate(240, 480) scale(0.08)" id="svg_258">
+     <g fill=" rgb(256, 256, 256)" id="svg_259">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_260"/>
+     </g>
+    </g>
+    <g transform="translate(440, 480) scale(0.08)" id="svg_261">
+     <g fill=" rgb(256, 256, 256)" id="svg_262">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_263"/>
+     </g>
+    </g>
+    <g transform="translate(520, 480) scale(2.85714)" id="svg_264">
+     <g fill=" rgb(256, 256, 256)" id="svg_265">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_266"/>
+     </g>
+    </g>
+    <g transform="translate(560, 480) scale(0.4)" id="svg_267">
+     <g fill=" rgb(256, 256, 256)" id="svg_268">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_269"/>
+     </g>
+    </g>
+    <g transform="translate(600, 480) scale(2.85714)" id="svg_270">
+     <g fill=" rgb(256, 256, 256)" id="svg_271">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_272"/>
+     </g>
+    </g>
+    <g transform="translate(680, 480) scale(2.85714)" id="svg_273">
+     <g fill=" rgb(256, 256, 256)" id="svg_274">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_275"/>
+     </g>
+    </g>
+    <g transform="translate(720, 480) scale(2.85714)" id="svg_276">
+     <g fill=" rgb(256, 256, 256)" id="svg_277">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_278"/>
+     </g>
+    </g>
+    <g transform="translate(840, 480) scale(2.85714)" id="svg_279">
+     <g fill=" rgb(256, 256, 256)" id="svg_280">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_281"/>
+     </g>
+    </g>
+    <g transform="translate(880, 480) scale(0.4)" id="svg_282">
+     <g fill=" rgb(256, 256, 256)" id="svg_283">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_284"/>
+     </g>
+    </g>
+    <g transform="translate(920, 480) scale(0.4)" id="svg_285">
+     <g fill=" rgb(256, 256, 256)" id="svg_286">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_287"/>
+     </g>
+    </g>
+    <g transform="translate(960, 480) scale(2.85714)" id="svg_288">
+     <g fill=" rgb(256, 256, 256)" id="svg_289">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_290"/>
+     </g>
+    </g>
+    <g transform="translate(0, 520) scale(0.08)" id="svg_291">
+     <g fill=" rgb(256, 256, 256)" id="svg_292">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_293"/>
+     </g>
+    </g>
+    <g transform="translate(120, 520) scale(2.85714)" id="svg_294">
+     <g fill=" rgb(256, 256, 256)" id="svg_295">
+      <path d="m248.499,8.75l14,0c0,0 -4.381,9.151 -0.551,14c0,0 -13.449,0.24 -13.449,-14z" id="svg_296"/>
+     </g>
+    </g>
+    <g transform="translate(200, 520) scale(0.08)" id="svg_297">
+     <g fill=" rgb(256, 256, 256)" id="svg_298">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_299"/>
+     </g>
+    </g>
+    <g transform="translate(320, 520) scale(2.85714)" id="svg_300">
+     <g fill=" rgb(256, 256, 256)" id="svg_301">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_302"/>
+     </g>
+    </g>
+    <g transform="translate(360, 520) scale(2.85714)" id="svg_303">
+     <g fill=" rgb(256, 256, 256)" id="svg_304">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_305"/>
+     </g>
+    </g>
+    <g transform="translate(480, 520) scale(2.85714)" id="svg_306">
+     <g fill=" rgb(256, 256, 256)" id="svg_307">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_308"/>
+     </g>
+    </g>
+    <g transform="translate(600, 520) scale(0.4)" id="svg_309">
+     <g fill=" rgb(256, 256, 256)" id="svg_310">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_311"/>
+     </g>
+    </g>
+    <g transform="translate(800, 520) scale(2.85714)" id="svg_312">
+     <g fill=" rgb(256, 256, 256)" id="svg_313">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_314"/>
+     </g>
+    </g>
+    <g transform="translate(920, 520) scale(2.85714)" id="svg_315">
+     <g fill=" rgb(256, 256, 256)" id="svg_316">
+      <path d="m248.499,8.75l14,0c0,0 -4.381,9.151 -0.551,14c0,0 -13.449,0.24 -13.449,-14z" id="svg_317"/>
+     </g>
+    </g>
+    <g transform="translate(80, 560) scale(2.85714)" id="svg_318">
+     <g fill=" rgb(256, 256, 256)" id="svg_319">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_320"/>
+     </g>
+    </g>
+    <g transform="translate(160, 560) scale(0.08)" id="svg_321">
+     <g fill=" rgb(256, 256, 256)" id="svg_322">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_323"/>
+     </g>
+    </g>
+    <g transform="translate(240, 560) scale(2.85714)" id="svg_324">
+     <g fill=" rgb(256, 256, 256)" id="svg_325">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_326"/>
+     </g>
+    </g>
+    <g transform="translate(280, 560) scale(2.85714)" id="svg_327">
+     <g fill=" rgb(256, 256, 256)" id="svg_328">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_329"/>
+     </g>
+    </g>
+    <g transform="translate(400, 560) scale(2.85714)" id="svg_330">
+     <g fill=" rgb(256, 256, 256)" id="svg_331">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_332"/>
+     </g>
+    </g>
+    <g transform="translate(440, 560) scale(0.4)" id="svg_333">
+     <g fill=" rgb(256, 256, 256)" id="svg_334">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_335"/>
+     </g>
+    </g>
+    <g transform="translate(480, 560) scale(0.4)" id="svg_336">
+     <g fill=" rgb(256, 256, 256)" id="svg_337">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_338"/>
+     </g>
+    </g>
+    <g transform="translate(520, 560) scale(0.4)" id="svg_339">
+     <g fill=" rgb(256, 256, 256)" id="svg_340">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_341"/>
+     </g>
+    </g>
+    <g transform="translate(560, 560) scale(0.4)" id="svg_342">
+     <g fill=" rgb(256, 256, 256)" id="svg_343">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_344"/>
+     </g>
+    </g>
+    <g transform="translate(600, 560) scale(0.4)" id="svg_345">
+     <g fill=" rgb(256, 256, 256)" id="svg_346">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_347"/>
+     </g>
+    </g>
+    <g transform="translate(640, 560) scale(0.4)" id="svg_348">
+     <g fill=" rgb(256, 256, 256)" id="svg_349">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_350"/>
+     </g>
+    </g>
+    <g transform="translate(680, 560) scale(0.4)" id="svg_351">
+     <g fill=" rgb(256, 256, 256)" id="svg_352">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_353"/>
+     </g>
+    </g>
+    <g transform="translate(720, 560) scale(0.4)" id="svg_354">
+     <g fill=" rgb(256, 256, 256)" id="svg_355">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_356"/>
+     </g>
+    </g>
+    <g transform="translate(760, 560) scale(0.4)" id="svg_357">
+     <g fill=" rgb(256, 256, 256)" id="svg_358">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_359"/>
+     </g>
+    </g>
+    <g transform="translate(800, 560) scale(0.4)" id="svg_360">
+     <g fill=" rgb(256, 256, 256)" id="svg_361">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_362"/>
+     </g>
+    </g>
+    <g transform="translate(840, 560) scale(0.4)" id="svg_363">
+     <g fill=" rgb(256, 256, 256)" id="svg_364">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_365"/>
+     </g>
+    </g>
+    <g transform="translate(880, 560) scale(2.85714)" id="svg_366">
+     <g fill=" rgb(256, 256, 256)" id="svg_367">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_368"/>
+     </g>
+    </g>
+    <g transform="translate(80, 600) scale(0.4)" id="svg_369">
+     <g fill=" rgb(256, 256, 256)" id="svg_370">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_371"/>
+     </g>
+    </g>
+    <g transform="translate(120, 600) scale(2.85714)" id="svg_372">
+     <g fill=" rgb(256, 256, 256)" id="svg_373">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_374"/>
+     </g>
+    </g>
+    <g transform="translate(200, 600) scale(0.08)" id="svg_375">
+     <g fill=" rgb(256, 256, 256)" id="svg_376">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_377"/>
+     </g>
+    </g>
+    <g transform="translate(320, 600) scale(0.08)" id="svg_378">
+     <g fill=" rgb(256, 256, 256)" id="svg_379">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_380"/>
+     </g>
+    </g>
+    <g transform="translate(440, 600) scale(2.85714)" id="svg_381">
+     <g fill=" rgb(256, 256, 256)" id="svg_382">
+      <path d="m248.499,8.75l14,0c0,0 -4.381,9.151 -0.551,14c0,0 -13.449,0.24 -13.449,-14z" id="svg_383"/>
+     </g>
+    </g>
+    <g transform="translate(520, 600) scale(0.4)" id="svg_384">
+     <g fill=" rgb(256, 256, 256)" id="svg_385">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_386"/>
+     </g>
+    </g>
+    <g transform="translate(720, 600) scale(0.4)" id="svg_387">
+     <g fill=" rgb(256, 256, 256)" id="svg_388">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_389"/>
+     </g>
+    </g>
+    <g transform="translate(760, 600) scale(0.4)" id="svg_390">
+     <g fill=" rgb(256, 256, 256)" id="svg_391">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_392"/>
+     </g>
+    </g>
+    <g transform="translate(800, 600) scale(0.4)" id="svg_393">
+     <g fill=" rgb(256, 256, 256)" id="svg_394">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_395"/>
+     </g>
+    </g>
+    <g transform="translate(880, 600) scale(0.4)" id="svg_396">
+     <g fill=" rgb(256, 256, 256)" id="svg_397">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_398"/>
+     </g>
+    </g>
+    <g transform="translate(920, 600) scale(2.85714)" id="svg_399">
+     <g fill=" rgb(256, 256, 256)" id="svg_400">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_401"/>
+     </g>
+    </g>
+    <g transform="translate(0, 640) scale(2.85714)" id="svg_402">
+     <g fill=" rgb(256, 256, 256)" id="svg_403">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_404"/>
+     </g>
+    </g>
+    <g transform="translate(40, 640) scale(0.4)" id="svg_405">
+     <g fill=" rgb(256, 256, 256)" id="svg_406">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_407"/>
+     </g>
+    </g>
+    <g transform="translate(80, 640) scale(0.4)" id="svg_408">
+     <g fill=" rgb(256, 256, 256)" id="svg_409">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_410"/>
+     </g>
+    </g>
+    <g transform="translate(120, 640) scale(0.4)" id="svg_411">
+     <g fill=" rgb(256, 256, 256)" id="svg_412">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_413"/>
+     </g>
+    </g>
+    <g transform="translate(160, 640) scale(2.85714)" id="svg_414">
+     <g fill=" rgb(256, 256, 256)" id="svg_415">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_416"/>
+     </g>
+    </g>
+    <g transform="translate(240, 640) scale(2.85714)" id="svg_417">
+     <g fill=" rgb(256, 256, 256)" id="svg_418">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_419"/>
+     </g>
+    </g>
+    <g transform="translate(280, 640) scale(2.85714)" id="svg_420">
+     <g fill=" rgb(256, 256, 256)" id="svg_421">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_422"/>
+     </g>
+    </g>
+    <g transform="translate(400, 640) scale(2.85714)" id="svg_423">
+     <g fill=" rgb(256, 256, 256)" id="svg_424">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_425"/>
+     </g>
+    </g>
+    <g transform="translate(480, 640) scale(2.85714)" id="svg_426">
+     <g fill=" rgb(256, 256, 256)" id="svg_427">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_428"/>
+     </g>
+    </g>
+    <g transform="translate(520, 640) scale(0.4)" id="svg_429">
+     <g fill=" rgb(256, 256, 256)" id="svg_430">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_431"/>
+     </g>
+    </g>
+    <g transform="translate(600, 640) scale(2.85714)" id="svg_432">
+     <g fill=" rgb(256, 256, 256)" id="svg_433">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_434"/>
+     </g>
+    </g>
+    <g transform="translate(640, 640) scale(0.4)" id="svg_435">
+     <g fill=" rgb(256, 256, 256)" id="svg_436">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_437"/>
+     </g>
+    </g>
+    <g transform="translate(680, 640) scale(0.4)" id="svg_438">
+     <g fill=" rgb(256, 256, 256)" id="svg_439">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_440"/>
+     </g>
+    </g>
+    <g transform="translate(720, 640) scale(0.4)" id="svg_441">
+     <g fill=" rgb(256, 256, 256)" id="svg_442">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_443"/>
+     </g>
+    </g>
+    <g transform="translate(760, 640) scale(0.4)" id="svg_444">
+     <g fill=" rgb(256, 256, 256)" id="svg_445">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_446"/>
+     </g>
+    </g>
+    <g transform="translate(800, 640) scale(0.4)" id="svg_447">
+     <g fill=" rgb(256, 256, 256)" id="svg_448">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_449"/>
+     </g>
+    </g>
+    <g transform="translate(840, 640) scale(0.4)" id="svg_450">
+     <g fill=" rgb(256, 256, 256)" id="svg_451">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_452"/>
+     </g>
+    </g>
+    <g transform="translate(880, 640) scale(2.85714)" id="svg_453">
+     <g fill=" rgb(256, 256, 256)" id="svg_454">
+      <path d="m248.5,22.75l0,-14l13.971,0l0.029,0l0,3.43c0,5.84 -6.268,10.57 -14,10.57z" id="svg_455"/>
+     </g>
+    </g>
+    <g transform="translate(320, 680) scale(2.85714)" id="svg_456">
+     <g fill=" rgb(256, 256, 256)" id="svg_457">
+      <path d="m262.499,8.749l0,14l-13.97,0l-0.029,0l0,-3.431c0,-5.839 6.267,-10.569 13.999,-10.569z" id="svg_458"/>
+     </g>
+    </g>
+    <g transform="translate(360, 680) scale(0.4)" id="svg_459">
+     <g fill=" rgb(256, 256, 256)" id="svg_460">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_461"/>
+     </g>
+    </g>
+    <g transform="translate(400, 680) scale(2.85714)" id="svg_462">
+     <g fill=" rgb(256, 256, 256)" id="svg_463">
+      <path d="m248.5,22.75l0,-14l13.971,0l0.029,0l0,3.43c0,5.84 -6.268,10.57 -14,10.57z" id="svg_464"/>
+     </g>
+    </g>
+    <g transform="translate(520, 680) scale(2.85714)" id="svg_465">
+     <g fill=" rgb(256, 256, 256)" id="svg_466">
+      <path d="m248.5,8.749l14,0l0,13.97l0,0.029l-3.431,0.001c-5.838,0 -10.569,-6.268 -10.569,-14z" id="svg_467"/>
+     </g>
+    </g>
+    <g transform="translate(560, 680) scale(2.85714)" id="svg_468">
+     <g fill=" rgb(256, 256, 256)" id="svg_469">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_470"/>
+     </g>
+    </g>
+    <g transform="translate(640, 680) scale(0.4)" id="svg_471">
+     <g fill=" rgb(256, 256, 256)" id="svg_472">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_473"/>
+     </g>
+    </g>
+    <g transform="translate(800, 680) scale(0.4)" id="svg_474">
+     <g fill=" rgb(256, 256, 256)" id="svg_475">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_476"/>
+     </g>
+    </g>
+    <g transform="translate(320, 720) scale(2.85714)" id="svg_477">
+     <g fill=" rgb(256, 256, 256)" id="svg_478">
+      <path d="m248.5,8.749l14,0l0,13.97l0,0.029l-3.431,0.001c-5.838,0 -10.569,-6.268 -10.569,-14z" id="svg_479"/>
+     </g>
+    </g>
+    <g transform="translate(360, 720) scale(2.85714)" id="svg_480">
+     <g fill=" rgb(256, 256, 256)" id="svg_481">
+      <path d="m248.5,22.75l0,-14l13.971,0l0.029,0l0,3.43c0,5.84 -6.268,10.57 -14,10.57z" id="svg_482"/>
+     </g>
+    </g>
+    <g transform="translate(640, 720) scale(0.4)" id="svg_483">
+     <g fill=" rgb(256, 256, 256)" id="svg_484">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_485"/>
+     </g>
+    </g>
+    <g transform="translate(720, 720) scale(0.08)" id="svg_486">
+     <g fill=" rgb(256, 256, 256)" id="svg_487">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_488"/>
+     </g>
+    </g>
+    <g transform="translate(800, 720) scale(0.4)" id="svg_489">
+     <g fill=" rgb(256, 256, 256)" id="svg_490">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_491"/>
+     </g>
+    </g>
+    <g transform="translate(400, 760) scale(0.08)" id="svg_492">
+     <g fill=" rgb(256, 256, 256)" id="svg_493">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_494"/>
+     </g>
+    </g>
+    <g transform="translate(480, 760) scale(0.08)" id="svg_495">
+     <g fill=" rgb(256, 256, 256)" id="svg_496">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_497"/>
+     </g>
+    </g>
+    <g transform="translate(560, 760) scale(2.85714)" id="svg_498">
+     <g fill=" rgb(256, 256, 256)" id="svg_499">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_500"/>
+     </g>
+    </g>
+    <g transform="translate(640, 760) scale(0.4)" id="svg_501">
+     <g fill=" rgb(256, 256, 256)" id="svg_502">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_503"/>
+     </g>
+    </g>
+    <g transform="translate(800, 760) scale(0.4)" id="svg_504">
+     <g fill=" rgb(256, 256, 256)" id="svg_505">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_506"/>
+     </g>
+    </g>
+    <g transform="translate(840, 760) scale(0.4)" id="svg_507">
+     <g fill=" rgb(256, 256, 256)" id="svg_508">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_509"/>
+     </g>
+    </g>
+    <g transform="translate(880, 760) scale(0.4)" id="svg_510">
+     <g fill=" rgb(256, 256, 256)" id="svg_511">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_512"/>
+     </g>
+    </g>
+    <g transform="translate(920, 760) scale(0.4)" id="svg_513">
+     <g fill=" rgb(256, 256, 256)" id="svg_514">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_515"/>
+     </g>
+    </g>
+    <g transform="translate(960, 760) scale(2.85714)" id="svg_516">
+     <g fill=" rgb(256, 256, 256)" id="svg_517">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_518"/>
+     </g>
+    </g>
+    <g transform="translate(320, 800) scale(2.85714)" id="svg_519">
+     <g fill=" rgb(256, 256, 256)" id="svg_520">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_521"/>
+     </g>
+    </g>
+    <g transform="translate(360, 800) scale(2.85714)" id="svg_522">
+     <g fill=" rgb(256, 256, 256)" id="svg_523">
+      <path d="m262.499,22.749l-13.999,0l0,-13.971l0,-0.029l3.43,0c5.839,0 10.569,6.268 10.569,14z" id="svg_524"/>
+     </g>
+    </g>
+    <g transform="translate(440, 800) scale(0.08)" id="svg_525">
+     <g fill=" rgb(256, 256, 256)" id="svg_526">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_527"/>
+     </g>
+    </g>
+    <g transform="translate(520, 800) scale(2.85714)" id="svg_528">
+     <g fill=" rgb(256, 256, 256)" id="svg_529">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_530"/>
+     </g>
+    </g>
+    <g transform="translate(560, 800) scale(2.85714)" id="svg_531">
+     <g fill=" rgb(256, 256, 256)" id="svg_532">
+      <path d="m248.5,22.75l0,-14l13.971,0l0.029,0l0,3.43c0,5.84 -6.268,10.57 -14,10.57z" id="svg_533"/>
+     </g>
+    </g>
+    <g transform="translate(640, 800) scale(2.85714)" id="svg_534">
+     <g fill=" rgb(256, 256, 256)" id="svg_535">
+      <path d="m248.5,8.749l14,0l0,13.97l0,0.029l-3.431,0.001c-5.838,0 -10.569,-6.268 -10.569,-14z" id="svg_536"/>
+     </g>
+    </g>
+    <g transform="translate(680, 800) scale(0.4)" id="svg_537">
+     <g fill=" rgb(256, 256, 256)" id="svg_538">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_539"/>
+     </g>
+    </g>
+    <g transform="translate(720, 800) scale(0.4)" id="svg_540">
+     <g fill=" rgb(256, 256, 256)" id="svg_541">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_542"/>
+     </g>
+    </g>
+    <g transform="translate(760, 800) scale(0.4)" id="svg_543">
+     <g fill=" rgb(256, 256, 256)" id="svg_544">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_545"/>
+     </g>
+    </g>
+    <g transform="translate(800, 800) scale(0.4)" id="svg_546">
+     <g fill=" rgb(256, 256, 256)" id="svg_547">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_548"/>
+     </g>
+    </g>
+    <g transform="translate(840, 800) scale(0.4)" id="svg_549">
+     <g fill=" rgb(256, 256, 256)" id="svg_550">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_551"/>
+     </g>
+    </g>
+    <g transform="translate(880, 800) scale(0.4)" id="svg_552">
+     <g fill=" rgb(256, 256, 256)" id="svg_553">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_554"/>
+     </g>
+    </g>
+    <g transform="translate(960, 800) scale(0.4)" id="svg_555">
+     <g fill=" rgb(256, 256, 256)" id="svg_556">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_557"/>
+     </g>
+    </g>
+    <g transform="translate(360, 840) scale(0.4)" id="svg_558">
+     <g fill=" rgb(256, 256, 256)" id="svg_559">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_560"/>
+     </g>
+    </g>
+    <g transform="translate(480, 840) scale(2.85714)" id="svg_561">
+     <g fill=" rgb(256, 256, 256)" id="svg_562">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_563"/>
+     </g>
+    </g>
+    <g transform="translate(600, 840) scale(2.85714)" id="svg_564">
+     <g fill=" rgb(256, 256, 256)" id="svg_565">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_566"/>
+     </g>
+    </g>
+    <g transform="translate(680, 840) scale(2.85714)" id="svg_567">
+     <g fill=" rgb(256, 256, 256)" id="svg_568">
+      <path d="m248.5,8.749l14,0l0,13.97l0,0.029l-3.431,0.001c-5.838,0 -10.569,-6.268 -10.569,-14z" id="svg_569"/>
+     </g>
+    </g>
+    <g transform="translate(720, 840) scale(0.4)" id="svg_570">
+     <g fill=" rgb(256, 256, 256)" id="svg_571">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_572"/>
+     </g>
+    </g>
+    <g transform="translate(760, 840) scale(2.85714)" id="svg_573">
+     <g fill=" rgb(256, 256, 256)" id="svg_574">
+      <path d="m248.5,22.75l0,-14l13.971,0l0.029,0l0,3.43c0,5.84 -6.268,10.57 -14,10.57z" id="svg_575"/>
+     </g>
+    </g>
+    <g transform="translate(880, 840) scale(2.85714)" id="svg_576">
+     <g fill=" rgb(256, 256, 256)" id="svg_577">
+      <path d="m248.5,8.749l14,0l0,13.97l0,0.029l-3.431,0.001c-5.838,0 -10.569,-6.268 -10.569,-14z" id="svg_578"/>
+     </g>
+    </g>
+    <g transform="translate(920, 840) scale(0.4)" id="svg_579">
+     <g fill=" rgb(256, 256, 256)" id="svg_580">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_581"/>
+     </g>
+    </g>
+    <g transform="translate(960, 840) scale(2.85714)" id="svg_582">
+     <g fill=" rgb(256, 256, 256)" id="svg_583">
+      <path d="m248.5,22.75l0,-14l13.971,0l0.029,0l0,3.43c0,5.84 -6.268,10.57 -14,10.57z" id="svg_584"/>
+     </g>
+    </g>
+    <g transform="translate(360, 880) scale(2.85714)" id="svg_585">
+     <g fill=" rgb(256, 256, 256)" id="svg_586">
+      <path d="m248.499,8.75l14,0c0,0 -4.381,9.151 -0.551,14c0,0 -13.449,0.24 -13.449,-14z" id="svg_587"/>
+     </g>
+    </g>
+    <g transform="translate(440, 880) scale(2.85714)" id="svg_588">
+     <g fill=" rgb(256, 256, 256)" id="svg_589">
+      <path d="m262.499,8.749l0,14l-13.97,0l-0.029,0l0,-3.431c0,-5.839 6.267,-10.569 13.999,-10.569z" id="svg_590"/>
+     </g>
+    </g>
+    <g transform="translate(480, 880) scale(0.4)" id="svg_591">
+     <g fill=" rgb(256, 256, 256)" id="svg_592">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_593"/>
+     </g>
+    </g>
+    <g transform="translate(520, 880) scale(0.4)" id="svg_594">
+     <g fill=" rgb(256, 256, 256)" id="svg_595">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_596"/>
+     </g>
+    </g>
+    <g transform="translate(560, 880) scale(0.4)" id="svg_597">
+     <g fill=" rgb(256, 256, 256)" id="svg_598">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_599"/>
+     </g>
+    </g>
+    <g transform="translate(600, 880) scale(0.4)" id="svg_600">
+     <g fill=" rgb(256, 256, 256)" id="svg_601">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_602"/>
+     </g>
+    </g>
+    <g transform="translate(720, 880) scale(0.4)" id="svg_603">
+     <g fill=" rgb(256, 256, 256)" id="svg_604">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_605"/>
+     </g>
+    </g>
+    <g transform="translate(840, 880) scale(2.85714)" id="svg_606">
+     <g fill=" rgb(256, 256, 256)" id="svg_607">
+      <path d="m262.5,22.75l-14,0c0,0 4.38,-9.15 0.55,-14c0,0 13.45,-0.24 13.45,14z" id="svg_608"/>
+     </g>
+    </g>
+    <g transform="translate(920, 880) scale(0.4)" id="svg_609">
+     <g fill=" rgb(256, 256, 256)" id="svg_610">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_611"/>
+     </g>
+    </g>
+    <g transform="translate(400, 920) scale(2.85714)" id="svg_612">
+     <g fill=" rgb(256, 256, 256)" id="svg_613">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_614"/>
+     </g>
+    </g>
+    <g transform="translate(440, 920) scale(2.85714)" id="svg_615">
+     <g fill=" rgb(256, 256, 256)" id="svg_616">
+      <path d="m248.5,22.75l0,-14l13.971,0l0.029,0l0,3.43c0,5.84 -6.268,10.57 -14,10.57z" id="svg_617"/>
+     </g>
+    </g>
+    <g transform="translate(520, 920) scale(0.4)" id="svg_618">
+     <g fill=" rgb(256, 256, 256)" id="svg_619">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_620"/>
+     </g>
+    </g>
+    <g transform="translate(600, 920) scale(0.4)" id="svg_621">
+     <g fill=" rgb(256, 256, 256)" id="svg_622">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_623"/>
+     </g>
+    </g>
+    <g transform="translate(680, 920) scale(2.85714)" id="svg_624">
+     <g fill=" rgb(256, 256, 256)" id="svg_625">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_626"/>
+     </g>
+    </g>
+    <g transform="translate(720, 920) scale(0.4)" id="svg_627">
+     <g fill=" rgb(256, 256, 256)" id="svg_628">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_629"/>
+     </g>
+    </g>
+    <g transform="translate(760, 920) scale(0.4)" id="svg_630">
+     <g fill=" rgb(256, 256, 256)" id="svg_631">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_632"/>
+     </g>
+    </g>
+    <g transform="translate(800, 920) scale(0.4)" id="svg_633">
+     <g fill=" rgb(256, 256, 256)" id="svg_634">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_635"/>
+     </g>
+    </g>
+    <g transform="translate(840, 920) scale(0.4)" id="svg_636">
+     <g fill=" rgb(256, 256, 256)" id="svg_637">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_638"/>
+     </g>
+    </g>
+    <g transform="translate(880, 920) scale(0.4)" id="svg_639">
+     <g fill=" rgb(256, 256, 256)" id="svg_640">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_641"/>
+     </g>
+    </g>
+    <g transform="translate(920, 920) scale(0.4)" id="svg_642">
+     <g fill=" rgb(256, 256, 256)" id="svg_643">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_644"/>
+     </g>
+    </g>
+    <g transform="translate(320, 960) scale(0.08)" id="svg_645">
+     <g fill=" rgb(256, 256, 256)" id="svg_646">
+      <path d="m9125,312.5c138.077,0 250,111.93 250,250c0,138.077 -111.923,250 -250,250c-138.07,0 -250,-111.923 -250,-250c0,-138.07 111.93,-250 250,-250z" id="svg_647"/>
+     </g>
+    </g>
+    <g transform="translate(480, 960) scale(2.85714)" id="svg_648">
+     <g fill=" rgb(256, 256, 256)" id="svg_649">
+      <path d="m262.499,8.75l0,14c0,0 -9.151,-4.381 -14,-0.551c0,0 -0.241,-13.449 14,-13.449z" id="svg_650"/>
+     </g>
+    </g>
+    <g transform="translate(520, 960) scale(2.85714)" id="svg_651">
+     <g fill=" rgb(256, 256, 256)" id="svg_652">
+      <path d="m248.5,22.75l0,-14l13.971,0l0.029,0l0,3.43c0,5.84 -6.268,10.57 -14,10.57z" id="svg_653"/>
+     </g>
+    </g>
+    <g transform="translate(600, 960) scale(2.85714)" id="svg_654">
+     <g fill=" rgb(256, 256, 256)" id="svg_655">
+      <path d="m248.499,8.75l14,0c0,0 -4.381,9.151 -0.551,14c0,0 -13.449,0.24 -13.449,-14z" id="svg_656"/>
+     </g>
+    </g>
+    <g transform="translate(880, 960) scale(2.85714)" id="svg_657">
+     <g fill=" rgb(256, 256, 256)" id="svg_658">
+      <path d="m248.5,8.749l14,0l0,13.97l0,0.029l-3.431,0.001c-5.838,0 -10.569,-6.268 -10.569,-14z" id="svg_659"/>
+     </g>
+    </g>
+    <g transform="translate(920, 960) scale(0.4)" id="svg_660">
+     <g fill=" rgb(256, 256, 256)" id="svg_661">
+      <rect width="100" height="100" y="62.5" x="1775" id="svg_662"/>
+     </g>
+    </g>
+    <g transform="translate(960, 960) scale(2.85714)" id="svg_663">
+     <g fill=" rgb(256, 256, 256)" id="svg_664">
+      <path d="m248.5,22.75l0,-14c0,0 9.15,4.38 14,0.55c0,0 0.24,13.45 -14,13.45z" id="svg_665"/>
+     </g>
+    </g>
+    <g transform="translate(0) scale(2.8)" id="svg_666">
+     <g transform="translate(0, 100) scale(1, -1)" fill=" rgb(256, 256, 256)" id="svg_667">
+      <g id="svg_668"/>
+      <g id="svg_669">
+       <path fill="none" d="m268.59144,25.21643l-0.016,50.855l51.246,0c10.339,0 18.75,-8.586 18.75,-19.14l0,-50.86l-51.22,0c-10.344,0 -18.76,8.586 -18.76,19.145z" id="svg_670"/>
+       <path d="m319.82144,-8.92857l-32.47,0c-18.62,0 -33.76,15.32 -33.76,34.14l-0.02,65.86l66.25,0c18.61,0 33.75,-15.32 33.75,-34.14l0,-31.72l0,-34.14l-33.75,0zm18.75,65.86c0,10.554 -8.411,19.14 -18.75,19.14l-51.246,0l0.016,-50.855c0,-10.559 8.416,-19.145 18.76,-19.145l51.22,0l0,50.86z" id="svg_671"/>
+      </g>
+     </g>
+    </g>
+    <g transform="translate(720) scale(2.8)" id="svg_672">
+     <g fill=" rgb(256, 256, 256)" id="svg_673">
+      <g id="svg_674"/>
+      <g id="svg_675">
+       <path fill="none" d="m268.59144,43.07357l-0.016,50.855l51.246,0c10.339,0 18.75,-8.586 18.75,-19.14l0,-50.86l-51.22,0c-10.344,0 -18.76,8.586 -18.76,19.145z" id="svg_676"/>
+       <path d="m319.82144,8.92857l-32.47,0c-18.62,0 -33.76,15.32 -33.76,34.14l-0.02,65.86l66.25,0c18.61,0 33.75,-15.32 33.75,-34.14l0,-31.72l0,-34.14l-33.75,0zm18.75,65.86c0,10.554 -8.411,19.14 -18.75,19.14l-51.246,0l0.016,-50.855c0,-10.559 8.416,-19.145 18.76,-19.145l51.22,0l0,50.86z" id="svg_677"/>
+      </g>
+     </g>
+    </g>
+    <g transform="translate(0, 720) scale(2.8)" id="svg_678">
+     <g fill=" rgb(256, 256, 256)" id="svg_679">
+      <g id="svg_680"/>
+      <g id="svg_681">
+       <path fill="none" d="m268.59144,43.07357l-0.016,50.855l51.246,0c10.339,0 18.75,-8.586 18.75,-19.14l0,-50.86l-51.22,0c-10.344,0 -18.76,8.586 -18.76,19.145z" id="svg_682"/>
+       <path d="m319.82144,8.92857l-32.47,0c-18.62,0 -33.76,15.32 -33.76,34.14l-0.02,65.86l66.25,0c18.61,0 33.75,-15.32 33.75,-34.14l0,-31.72l0,-34.14l-33.75,0zm18.75,65.86c0,10.554 -8.411,19.14 -18.75,19.14l-51.246,0l0.016,-50.855c0,-10.559 8.416,-19.145 18.76,-19.145l51.22,0l0,50.86z" id="svg_683"/>
+      </g>
+     </g>
+    </g>
+    <g transform="translate(80, 80) scale(1.17647)" id="svg_684">
+     <g fill=" rgb(256, 256, 256)" id="svg_685">
+      <circle cx="653.49997" cy="71.25" r="50" id="svg_686"/>
+     </g>
+    </g>
+    <g transform="translate(800, 80) scale(1.17647)" id="svg_687">
+     <g fill=" rgb(256, 256, 256)" id="svg_688">
+      <circle cx="653.49997" cy="71.25" r="50" id="svg_689"/>
+     </g>
+    </g>
+    <g transform="translate(80, 800) scale(1.17647)" id="svg_690">
+     <g fill=" rgb(256, 256, 256)" id="svg_691">
+      <circle cx="653.49997" cy="71.25" r="50" id="svg_692"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <text fill="#ffffff" stroke="#ffffff" stroke-width="0" fill-opacity="null" x="478.21846" y="1431.05885" id="svg_693" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold" transform="matrix(6.28219, 0, 0, 5.9214, -2554.29, -6948.22)">VAKZIN</text>
+ </g>
+</svg>
